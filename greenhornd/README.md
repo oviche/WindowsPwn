@@ -3,7 +3,7 @@
 **Category:** Exploitation\
 **Points:** 400\
 **Description:**
-
+- The goal of challenge to read Key file.
 > ```bash
 > nc IP Port
 > ```
